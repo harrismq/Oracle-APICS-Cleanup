@@ -19,6 +19,7 @@ Only copy the value of app_access_token attribute here. This token should be of 
 Replace <example.com> from API_URL and PLAN_URL attribute with your API instance base url. For example.
 
 API_URL=https://api01-gse.apiplatform.ocp.oraclecloud.com/apiplatform/management/v1/apis
+
 PLAN_URL=https://api01-gse.apiplatform.ocp.oraclecloud.com/apiplatform/management/v1/plans
 
 **API_Name_Identifier** ="Org"
@@ -33,10 +34,10 @@ Update the value of PLAN_Name with the plan name that you wish to delete. In thi
 
 Once you have setup the attributes in the Config file. You can run cleanupAPIs.py either from your preferred ide or directly from terminal.
 
->> python cleanupAPIs.py
+``` python cleanupAPIs.py ```
 
 ## Delete Plans
 
 Once you have setup the attributes in the Config file. You can run cleanupPlans.py either from your preferred ide or directly from terminal.
 
->> python cleanupAPIs.py
+``` python cleanupAPIs.py ```
