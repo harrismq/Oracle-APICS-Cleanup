@@ -13,8 +13,8 @@ PLAN_URL="https://example.com/apiplatform/management/v1/plans"
 #filters used to select the API Name and Plan Name that you want to delete. 
 #Any API's and Plans starting with these identifiers will be deleted
 
-API_Name_Identifier="OrganizationDbi09"
-PLAN_Name_Identifier="JAL-API"
+API_Name_Identifier="Org"
+PLAN_Name_Identifier="Org"
 
 #Constants
 PUBLICATION_STATE_UNPUBLISHED = "UNPUBLISHED"
