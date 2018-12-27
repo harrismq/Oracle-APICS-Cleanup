@@ -10,9 +10,10 @@ Before you can execute the cleanupAPI.py or cleanupPlan.py, you need to setup fo
 https://docs.oracle.com/en/cloud/paas/api-platform-cloud/apfrp/Authentication.html
 
 Only copy the value of app_access_token attribute here. This token should be of the user who has Admin priviledges of APICS.
-Note: Access token normally expires in 60 minutes, once it's expired you will need to update this again with the new access token.
+*Note: Access token normally expires in 60 minutes, once it's expired you will need to update this again with the new access token.*
 
 **API_URL** ="https://<example.com>/apiplatform/management/v1/apis"
+
 **PLAN_URL** ="https://<example.com>/apiplatform/management/v1/plans"
 
 Replace <example.com> from API_URL and PLAN_URL attribute with your API instance base url. For example.
