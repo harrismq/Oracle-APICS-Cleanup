@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: harris.qureshi@oracle.com
+@author: harrismoin@gmail.com
 """
 
 import Config
