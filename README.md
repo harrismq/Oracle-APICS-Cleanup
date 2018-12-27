@@ -8,7 +8,7 @@ You can provide an exact name of the API or Plan or just the starting letters an
 This was written using Python 3.
 It requires Python requests and json libraries installed.
 
-##Usage
+## Usage
 
 You can use this code to bulk delete APIs and Plans in Oracle API Platform Cloud Service.
 
