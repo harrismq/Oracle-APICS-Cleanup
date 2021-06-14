@@ -1,10 +1,10 @@
 # Oracle APICS Cleanup
-Python program to use the Oracle API Platfor Cloud Service API.
-This is written using Rest APIs : https://docs.oracle.com/en/cloud/paas/api-platform-cloud/apfrm/rest-endpoints.html 
-It allows you to delete APIs and Plans in your Oracle API Platform Cloud Service environment. 
+Python program to use the Oracle API Platform Cloud Service API.
+This is written using Rest APIs : https://docs.oracle.com/en/cloud/paas/api-platform-cloud/apfrm/rest-endpoints.html
+It allows you to delete APIs and Plans in your Oracle API Platform Cloud Service environment.
 You can provide an exact name of the API or Plan or just the starting letters and it will delete all APIs and Plans starting from those letters.
 
-To learn more about the dependancies that needs to be handled before you can delete an API or a Plan and it's workflow, please refer to this article.
+To learn more about the dependencies that needs to be handled before you can delete an API or a Plan and it's workflow, please refer to this article.
 
 https://www.linkedin.com/pulse/how-cleanup-oracle-apics-environment-harris-qureshi/
 
